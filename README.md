@@ -17,7 +17,5 @@
  
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miinuk_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=miinuk_icons=true&show_icons=true&theme=bear&count_private=true" />
-<img height = "200cm" src="https://github-readme-stats.vercel.app/api?username=miinuk_icons=true&theme=radical">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinuk&show_icons=true)
 </div>
