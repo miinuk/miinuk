@@ -18,4 +18,8 @@
 
 <div align = "left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinuk&show_icons=true)
+ <div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=miinuk&show_icons=true" />
+</div>
 </div>
