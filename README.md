@@ -1,4 +1,4 @@
- <img src="giphy.gif" width="325px">
+ <img src="giphy.gif" width="5px">
   #Seja bem vindo ao meu perfil do git!!
   amante de jogos e estudante na arte de programar ❤️❤️❤️
   
